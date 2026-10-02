@@ -1,0 +1,18 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Env
+.env
+
+# SDK
+sdk/node_modules/
+sdk/dist/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+sdk/package-lock.json
